@@ -1,0 +1,8 @@
+name 'net46'
+maintainer 'Timothy Wright'
+maintainer_email 'chef@eastbound.io'
+license 'Apache-2.0'
+description 'Installs/Configures net46'
+long_description 'Installs/Configures net46'
+version '0.1.0'
+chef_version '>= 13.0'
